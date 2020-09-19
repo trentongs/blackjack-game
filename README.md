@@ -2,4 +2,4 @@
 Python project where user plays text-based Blackjack against an automated dealer.
 
 ## demo
-![](blackjack (1).gif)
+![](https://github.com/trentongs/blackjack-game/blob/master/blackjack%20(1).gif)
